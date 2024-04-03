@@ -1,0 +1,120 @@
+{
+  "123456789": {
+    "teacher_name": "Mr. Smith",
+    "classes": {
+      "MATH101": {
+        "classroom": "Room 101",
+        "test_times": [
+          {"date": "2024-05-20", "time": "9:00 AM"},
+          {"date": "2024-05-21", "time": "1:00 PM"}
+        ],
+        "students": ["1234567890", "2345678901", "4567890123", "5678901234", "6789012345", "1555385805"]
+      }
+    }
+  },
+  "234567890": {
+    "teacher_name": "Ms. Johnson",
+    "classes": {
+      "WRITING101": {
+        "classroom": "Room 204",
+        "test_times": [
+          {"date": "2024-05-22", "time": "3:30 PM"},
+          {"date": "2024-05-23", "time": "1:30 PM"}
+        ],
+        "students": ["2345678901"]
+      }
+    }
+  },
+  "345678901": {
+    "teacher_name": "Mrs. Thompson",
+    "classes": {
+      "HIST101": {
+        "classroom": "Room 201",
+        "test_times": [
+          {"date": "2024-05-22", "time": "9:30 AM"},
+          {"date": "2024-05-23", "time": "1:30 PM"}
+        ],
+        "students": ["1234567890", "3456789012", "4567890123", "5678901234", "6789012345", "8765432109", "4210605461"]
+      }
+    }
+  },
+  "456789012": {
+    "teacher_name": "Dr. Rodriguez",
+    "classes": {
+      "PHYSICS101": {
+        "classroom": "Room 207",
+        "test_times": [
+          {"date": "2024-05-20", "time": "9:00 AM"},
+          {"date": "2024-05-21", "time": "1:00 PM"}
+        ],
+        "students": ["3456789012", "6334020002"]
+      }
+    }
+  },
+  "567890123": {
+    "teacher_name": "Ms. White",
+    "classes": {
+      "BIO101": {
+        "classroom": "Room 301",
+        "test_times": [
+          {"date": "2024-05-20", "time": "10:00 AM"},
+          {"date": "2024-05-21", "time": "2:00 PM"},
+          {"date": "2024-05-23", "time": "1:30 PM"}
+        ],
+        "students": ["7890123456", "8901234567", "1012004937"]
+      }
+    }
+  },
+  "678901234": {
+    "teacher_name": "Mr. Brown",
+    "classes": {
+      "CHEM101": {
+        "classroom": "Room 302",
+        "test_times": [
+          {"date": "2024-05-22", "time": "10:30 AM"},
+          {"date": "2024-05-23", "time": "2:30 PM"}
+        ],
+        "students": ["8901234567", "1012004937"]
+      }
+    }
+  },
+  "789012345": {
+    "teacher_name": "Mr. Lee",
+    "classes": {
+      "CS101": {
+        "classroom": "Room 404",
+        "test_times": [
+          {"date": "2024-05-22", "time": "9:30 AM"},
+          {"date": "2024-05-23", "time": "1:30 PM"}
+        ],
+        "students": ["9012345678", "9876543210", "6334020002"]
+      }
+    }
+  },
+  "987654321": {
+    "teacher_name": "Ms. Davis",
+    "classes": {
+      "ENG101": {
+        "classroom": "Room 306",
+        "test_times": [
+          {"date": "2024-05-22", "time": "12:30 PM"},
+          {"date": "2024-05-23", "time": "4:30 PM"}
+        ],
+        "students": ["9876543210", "1555385805"]
+      }
+    }
+  },
+  "876543210": {
+    "teacher_name": "Mrs. Garcia",
+    "classes": {
+      "GEOG101": {
+        "classroom": "Room 308",
+        "test_times": [
+          {"date": "2024-05-22", "time": "1:30 PM"},
+          {"date": "2024-05-23", "time": "5:30 PM"}
+        ],
+        "students": ["8765432109", "4210605461"]
+      }
+    }
+  }
+}
